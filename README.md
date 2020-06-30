@@ -7,18 +7,23 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 * List of Software
 	* [Operating Systems](#operating-systems) 
 	* [Web Browsers](#web-browsers)
+	* [Graphic Design](#graphic-design)
 	* [Software Platforms](#software-platforms)
 
 # Operating Systems
 
-* [Ubuntu](https://ubuntu.com/) - Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things. ([Source Code](https://code.launchpad.net/ubuntu)) ``Varies``
-* [Linux Mint](https://linuxmint.com/) - Linux Mint aims to produce a modern, elegant and comfortable operating system which is both powerful and easy to use. ([Source Code](https://github.com/linuxmint)) ``Varies``
+* [Ubuntu](https://ubuntu.com/) - Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things. ([Source Code](https://code.launchpad.net/ubuntu)) ``Varies`` ``5 years``
+* [Linux Mint](https://linuxmint.com/) - Linux Mint aims to produce a modern, elegant and comfortable operating system which is both powerful and easy to use. ([Source Code](https://github.com/linuxmint)) ``Varies`` ``Same as Ubuntu``
 
 # Web Browsers
 
-* [Firefox](https://www.mozilla.org/firefox/new/) - Web broswer with privacy and security in mind. ([Source Code](https://hg.mozilla.org/mozilla-central/)) ``MPL-2.0``
+* [Firefox](https://www.mozilla.org/firefox/new/) - Web broswer with privacy and security in mind. ([Source Code](https://hg.mozilla.org/mozilla-central/)) ``MPL-2.0`` ``1 year``
+
+# Graphic Design
+
+* [Blender](https://www.blender.org/) - 3D graphic design, visual effect, art, animation and 3D printed model tool. ([Source Code](https://git.blender.org/gitweb/gitweb.cgi/blender.git)) ``GPL-2.0-or-later`` ``2 years``
 
 # Software Platforms
 
-* [.NET Core](https://dotnet.microsoft.com) - A free, cross-platform, open source developer platform for building many different types of applications. ([Source Code](https://github.com/dotnet/core)) ``MIT``
-* [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine. ([Source Code](https://github.com/nodejs/node)) ``MIT``
+* [.NET Core](https://dotnet.microsoft.com) - A free, cross-platform, open source developer platform for building many different types of applications. ([Source Code](https://github.com/dotnet/core)) ``MIT`` ``3 years``
+* [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine. ([Source Code](https://github.com/nodejs/node)) ``MIT`` ``18 months``

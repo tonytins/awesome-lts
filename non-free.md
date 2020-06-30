@@ -9,4 +9,4 @@ LTS editions are typically an open-source practice. They're uncommon but not unh
 
 # Operating Systems
 
-* [Windows 10](https://windows.com/) ``⊘ Proprietary`` - Windows 10 is a operating system by Microsoft for personal computers, tablets, embedded and internet of things devices.
+* [Windows 10](https://windows.com/) ``⊘ Proprietary`` - Windows 10 is a operating system by Microsoft for personal computers, tablets, embedded and internet of things devices. ``10 years, Enterprise only``
