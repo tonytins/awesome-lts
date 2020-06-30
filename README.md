@@ -3,8 +3,13 @@
 Long-term support (LTS) is a product lifecycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition.
 
 * List of Software
+	* [Operating Systems](#operating-systems) 
 	* [Web Browsers](#web-browsers)
 	* [Software Platforms](#software-platforms)
+
+# Operating Systems
+
+* [Ubuntu](https://ubuntu.com/) - Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things. ([Source Code](https://code.launchpad.net/ubuntu)) ``Varies``
 
 # Web Browsers
 
