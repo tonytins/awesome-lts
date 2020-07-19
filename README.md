@@ -38,3 +38,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 ## License
 
 I dedicate any and all copyright interest in this project to the public domain - see the [LICENSE](LICENSE) file for details.
+
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE-OF-CONDUCT.md). By participating in this project you agree to abide by its terms.
