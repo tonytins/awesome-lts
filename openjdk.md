@@ -4,13 +4,13 @@ Since version 11, Oracle no longer provides LTS builds of Java under an open sou
 
 | Build                             | TCK Tested | Commercial support |
 | --------------------------------- | ---------- | ------------------ |
-| [AdoptOpenJDK](adoptjdk)          | ❌          | ✔️                  |
-| [Alibaba Dragonwell](dragonwell)  | ✔️          | ❌                  |
-| [Amazon Corretto](coretto)        | ✔️          | ❌                  |
-| [Azul Zulu](zulu)                 | ✔️          | ✔️                  |
-| [BellSoft Liberica JDK](liberica) | ✔️          | ✔️                  |
-| [SapMachine](sap)                 | ✔️          | ❌                  |
-| [ojdkbuild](ojdk)                 | ❌          | ❌                  |
+| [AdoptOpenJDK][adoptjdk]          | ❌          | ✔️                  |
+| [Alibaba Dragonwell][dragonwell]  | ✔️          | ❌                  |
+| [Amazon Corretto][coretto]        | ✔️          | ❌                  |
+| [Azul Zulu][zulu]                 | ✔️          | ✔️                  |
+| [BellSoft Liberica JDK][liberica] | ✔️          | ✔️                  |
+| [SapMachine][sap]                 | ✔️          | ❌                  |
+| [ojdkbuild][ojdk]                 | ❌          | ❌                  |
 
 [adoptjdk]: https://adoptopenjdk.net/
 [dragonwell]: https://github.com/alibaba/dragonwell8
