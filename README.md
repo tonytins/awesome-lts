@@ -1,5 +1,7 @@
 # Awesome LTS
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
+
 Long-term support (LTS) is a product lifecycle management policy in which a stable release of computer software is maintained for a longer period of time than the standard edition.
 
 This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. Non-Free software is listed on the [Non-Free](non-free.md) page.
@@ -33,7 +35,6 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 
 * [.NET Core](https://dotnet.microsoft.com) - A free, cross-platform, open source developer platform for building many different types of applications. ([Source Code](https://github.com/dotnet/core)) ``MIT`` ``3 years``
 * [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine. ([Source Code](https://github.com/nodejs/node)) ``MIT`` ``18 months``
-* [Java](https://www.java.com/) - Free, cross-platform, open source developer platform. ([Source code](https://hg.openjdk.java.net/)) ``GPL-2.0-with-classpath-exception`` ``3 years`` <!-- This needs to be phrased better so it isn't identical to .NET's. Even though they are functionally the same. -->
 
 ## License
 
