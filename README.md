@@ -35,6 +35,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 
 * [.NET Core](https://dotnet.microsoft.com) - A free, cross-platform, open source developer platform for building many different types of applications. ([Source Code](https://github.com/dotnet/core)) ``MIT`` ``3 years``
 * [Node.js](https://nodejs.org/) - A JavaScript runtime built on Chrome's V8 JavaScript engine. ([Source Code](https://github.com/nodejs/node)) ``MIT`` ``18 months``
+* [OpenJDK](openjdk.md) - Free, open source and cross-platform developer platform with builds from varies distributors. ``Varies`` ``Varies``
 
 ## License
 
