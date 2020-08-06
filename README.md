@@ -29,6 +29,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 ## Frameworks
 
 * [Angular](https://angular.io/) A TypeScript-based web application framework. ([Source code](https://github.com/angular/angular)) ``MIT license`` ``6 months``
+* [Ember.js](https://emberjs.com) - JavaScript framework for building modern web applications. ([Source code](https://github.com/emberjs/ember.js))  `MIT license` `12 months`
 * [Moodle](https://moodle.org/) Learning management system (LMS) written in PHP. ([Source code](https://git.in.moodle.com/moodle/moodle.git)) ``MIT license`` ``3 years``
 
 ## Software Platforms
