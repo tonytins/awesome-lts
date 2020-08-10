@@ -21,7 +21,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 
 ## Office
 
-* [LibreOffice](https://www.libreoffice.org/) Free and open source office suit based on OpenOffice. ([Source Code](https://git.libreoffice.org/core)) ``MPL-v2.0`` ``1 year``
+* [LibreOffice](https://www.libreoffice.org/) - Free and open source office suit based on OpenOffice. ([Source Code](https://git.libreoffice.org)) ``MPL-v2.0`` ``1 year``
 
 ## Web Browsers
 
