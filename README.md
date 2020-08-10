@@ -21,11 +21,11 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 
 ## Office
 
-* [LibreOffice](https://www.libreoffice.org/) Free and open source office suit based on OpenOffice. ``MPL-v2.0`` ``1 year``
+* [LibreOffice](https://www.libreoffice.org/) Free and open source office suit based on OpenOffice. ([Source Code](https://git.libreoffice.org/core)) ``MPL-v2.0`` ``1 year``
 
 ## Web Browsers
 
-* [Firefox](https://www.mozilla.org/firefox/new/) - Web broswer with privacy and security in mind. ([Source Code](https://hg.mozilla.org/mozilla-central/)) ``MPL-2.0`` ``1 year``
+* [Firefox](https://www.mozilla.org/firefox/new/) - Web broswer with privacy and security in mind. ([Source Code](https://hg.mozilla.org/mozilla-central/)) ``MPL-v2.0`` ``1 year``
 
 ## Graphic Design
 
@@ -33,8 +33,8 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 
 ## Frameworks
 
-* [Angular](https://angular.io/) A TypeScript-based web application framework. ([Source code](https://github.com/angular/angular)) ``MIT license`` ``6 months``
-* [Ember.js](https://emberjs.com) - JavaScript framework for building modern web applications. ([Source code](https://github.com/emberjs/ember.js))  `MIT license` `12 months`
+* [Angular](https://angular.io/) A TypeScript-based web application framework. ([Source code](https://github.com/angular/angular)) ``MIT`` ``6 months``
+* [Ember.js](https://emberjs.com) - JavaScript framework for building modern web applications. ([Source code](https://github.com/emberjs/ember.js))  `MIT` `12 months`
 * [Moodle](https://moodle.org/) Learning management system (LMS) written in PHP. ([Source code](https://git.in.moodle.com/moodle/moodle.git)) ``MIT license`` ``3 years``
 
 ## Software Platforms
