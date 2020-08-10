@@ -8,6 +8,7 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 
 * List of Software
   * [Operating Systems](#operating-systems)
+  * [Office](#office)
   * [Web Browsers](#web-browsers)
   * [Graphic Design](#graphic-design)
   * [Frameworks](#frameworks)
@@ -17,6 +18,10 @@ This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software. 
 
 * [Ubuntu](https://ubuntu.com/) - Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things. ([Source Code](https://code.launchpad.net/ubuntu)) ``Varies`` ``5 years``
 * [Linux Mint](https://linuxmint.com/) - Linux Mint aims to produce a modern, elegant and comfortable operating system which is both powerful and easy to use. ([Source Code](https://github.com/linuxmint)) ``Varies`` ``Same as Ubuntu``
+
+## Office
+
+* [LibreOffice](https://www.libreoffice.org/) Free and open source office suit based on OpenOffice. ``MPL-v2.0`` ``1 year``
 
 ## Web Browsers
 
@@ -45,3 +50,4 @@ I dedicate any and all copyright interest in this project to the public domain -
 ## Code of Conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
